@@ -144,10 +144,7 @@
 <div class="quote" style="top: 85%; left: 30%; animation-delay: 5s;">Erum við ekki bara góðir?</div>
 <div class="quote" style="top: 90%; left: 35%; animation-delay: 0s;">Bald lives matter!</div>
   <div class="container">
-<h1>TEKINN – CHAOS MODE</h1>
-<img src="auddi-tekinn.jpg" alt="TEKINN" />
-</div>
-<div id="number"></div> teknir eins og er!
+<h1><div id="number"></div> teknir eins og er!
  
   <script>
     // Function to generate and display a random number
@@ -159,7 +156,10 @@
  
     // Run it automatically when the page loads
     window.onload = showcounter;
-</script>
+</script></h1>
+<img src="auddi-tekinn.jpg" alt="TEKINN" />
+</div>
+
  
 </body>
 </html>
